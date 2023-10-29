@@ -1,2 +1,3 @@
-# ysoserial-all-payloads
-Generate Payloads using `ysoserial` with all the types it has.
+# ysoserial Bruteforce
+- Make sure your Java version is lower than 15
+- made to work on **Linux**
